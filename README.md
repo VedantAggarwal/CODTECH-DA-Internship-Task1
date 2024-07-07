@@ -2,11 +2,11 @@
 
 ### Overview of the Project
 
-**Name:** VEDANT AGGARWAL
-**Company:** CODTECH IT SOLUTIONS  
-**ID:** CT4DA2646
-**Domain:** Data Analytics  
-**Duration:** June 20, 2024 to July 20, 2024  
+**Name:** VEDANT AGGARWAL <br>
+**Company:** CODTECH IT SOLUTIONS <br>
+**ID:** CT4DA2646 <br>
+**Domain:** Data Analytics <br>
+**Duration:** June 20, 2024 to July 20, 2024 <br>
 **Mentor:** Muzammil Ahmed
 
 ### Objective
