@@ -1,5 +1,8 @@
 ## Exploratory Data Analysis (EDA) on Video Game Sales Dataset
 
+![Data Analysis](https://github.com/VedantAggarwal/CODTECH-Internship-Task1/assets/143300097/3b6b2f52-0ef9-408b-8f46-6903c50b5ee6)
+
+
 ### Overview of the Project
 
 **Name:** VEDANT AGGARWAL <br>
