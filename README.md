@@ -33,7 +33,6 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) on a
 - **Most Popular Platform**: PS2 is the most popular and widely used platform.
 - **Most Popular Publisher**: Nintendo is the most popular publishers.
 - **Most Popular Genre**: Action genre is the most popular genre of gaming.
-- **Highest Sales**: Video games sales was at its peak in the decade 2000-2009.
 These stats represent the global level analysis. They changes when analysis is done regionally.
 
 This project provides a comprehensive overview of shift in gaming prefferences useful for developing games in future.
